@@ -58,12 +58,3 @@ AI isn’t evil, but if we’re careless, it can **repeat human mistakes at scal
 
 Until then, I’ll keep my magnifying glass handy. 🕵️✨  
 
----
-
-## 📂 How to Submit  
-This file (`README.md`) is the assignment deliverable.  
-1. Create a GitHub repo (example: `ai-inspector-assignment`).  
-2. Copy-paste this text into `README.md`.  
-3. Share the repo link with your teacher.  
-
-Example submission link:  
